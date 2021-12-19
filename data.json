@@ -1,5 +1,7 @@
-[{
-  id1 = {"name":"sumon"}
-  
-  
-}]
+{
+	"id1": {
+		"name": "sumon",
+		"email": "smon@gmail.com"
+	}
+
+}
